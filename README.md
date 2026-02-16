@@ -1,54 +1,64 @@
+<div align="center">
+
 # Saidazam Saidov
 
 **Software Engineer** specializing in ML pipelines, backend systems, and AI products.
 Background in NLP, computer vision, and data engineering.
 
-Tashkent, Uzbekistan
+📍 Tashkent, Uzbekistan
 
-[![Email](https://img.shields.io/badge/Email-caidovazam@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caidovazam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saidazam--saidov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidazam-saidov/)
-[![Website](https://img.shields.io/badge/Website-saidov.space-000?style=flat&logo=safari&logoColor=white)](https://www.saidov.space/)
+[![Email](https://img.shields.io/badge/Email-caidovazam@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:caidovazam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saidazam--saidov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidazam-saidov/)
+[![Website](https://img.shields.io/badge/Website-saidov.space-222?style=flat-square&logo=safari&logoColor=white)](https://www.saidov.space/)
 
----
-
-## Experience
-
-**Machine Learning Engineer** — Far Island Corporation Ltd.
-*Mar 2025 – Aug 2025 · South Korea*
-
-**Founder** — CodeSphere · Tech & Startup Community
-*Jun 2025 – Present · Seoul, South Korea*
-Weekly meetup for developers to work on projects, share knowledge, and connect.
-
-## Education
-
-**Sejong University** — B.S. Computer Science
-*Sep 2022 – Jun 2025*
+</div>
 
 ---
 
-## Tech Stack
+### Experience
 
-**Languages:** Python, Java, Bash, TypeScript
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain
-**Backend:** FastAPI, Spring Boot, Node.js, PostgreSQL
-**Infra:** Docker, Linux, Git
+| Role | Company | Period | Location |
+|------|---------|--------|----------|
+| **Machine Learning Engineer** | Far Island Corporation Ltd. | Mar 2025 – Aug 2025 | South Korea |
+| **Founder** | CodeSphere · Tech & Startup Community | Jun 2025 – Present | Seoul, South Korea |
+
+### Education
+
+| Degree | University | Period |
+|--------|-----------|--------|
+| **B.S. Computer Science** | Sejong University | Sep 2022 – Jun 2025 |
 
 ---
 
-## Featured Projects
+### Tech Stack
 
-[![devops-agent-team](https://github-readme-stats.vercel.app/api/pin/?username=MazadiaS&repo=devops-agent-team&hide_border=true)](https://github.com/MazadiaS/devops-agent-team)
-[![gitwit](https://github-readme-stats.vercel.app/api/pin/?username=MazadiaS&repo=gitwit&hide_border=true)](https://github.com/MazadiaS/gitwit)
-[![API Watch](https://github-readme-stats.vercel.app/api/pin/?username=MazadiaS&repo=-apiwatch&hide_border=true)](https://github.com/MazadiaS/-apiwatch)
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**devops-agent-team**](https://github.com/MazadiaS/devops-agent-team) | AI-powered incident response system with 6 specialist agents | Python |
+| [**gitwit**](https://github.com/MazadiaS/gitwit) | AI-powered git commit messages using free APIs (Groq, Gemini, Ollama) | Python |
+| [**-apiwatch**](https://github.com/MazadiaS/-apiwatch) | API monitoring & uptime tracking | Python |
 
 ---
 
 <details>
-<summary>GitHub Stats</summary>
+<summary><b>GitHub Stats</b></summary>
 <br>
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazadiaS&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazadiaS&layout=compact&hide_border=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazadiaS&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=transparent)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazadiaS&layout=compact&hide_border=true&hide_title=true&theme=transparent)
+
+</div>
 </details>
