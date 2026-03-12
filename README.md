@@ -19,7 +19,7 @@ Background in NLP, computer vision, and data engineering.
 
 | Role | Company | Period | Location |
 |------|---------|--------|----------|
-| **Machine Learning Engineer** | Far Island Corporation Ltd. | Mar 2025 – Aug 2025 | South Korea |
+| **Machine Learning Engineer** | Far Island Corporation Ltd. | Mar 2025 – Nov 2025 | South Korea |
 | **Founder** | CodeSphere · Tech & Startup Community | Jun 2025 – Present | Seoul, South Korea |
 
 ### Education
