@@ -55,7 +55,7 @@ NLP · Computer Vision · Data Engineering
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazadiaS&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazadiaS&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazadiaS&layout=compact&hide_border=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MazadiaS&hide_border=true&theme=tokyonight)
